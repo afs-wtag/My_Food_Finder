@@ -1,0 +1,6 @@
+Chillox	Fastfood	250
+biriyani	oriental	300
+Madchef	Fastfood	350
+Mizan's	oriental	100
+Cafe Masala	oriental	200
+ukulele	Fastfood	160
